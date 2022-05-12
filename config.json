@@ -2,7 +2,7 @@
   "name": "Smart Living Support VPN",
   "version": "0.0.1",
   "slug": "smartliving_client",
-  "description": "Support Service Add-on für die Fernwartung über VPN",
+  "description": "Support Service Add-on für die Fernwartung über VPN. Weiter Informationen unter www.smartliving.rocks",
   "url": "https://github.com/SmartLiving-Rocks/HomeAssistantSupport/",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
