@@ -10,8 +10,8 @@ Diese Add-On basiert auf OpenVPN und baut eine gesicherte Verbindung über ein v
 ### Installation
 #### OpenVPN Zugangsdaten hinterlegen (*.ovpn Datei speichern)
 Die ovpn Datei die wir Ihne zugeschickt haben müssen Sie in dem Ordner `/shares` abspeichern. Benutzen Sie hierzu eine von Ihnen bevorzugte Methode wie SMB oder fügen Sie die datei manuell hinzu mit `File` oder `Coder`. Hier Zeigen wir Ihnen wie es geht:
-![fuxa ani](https://raw.githubusercontent.com/SmartLiving-Rocks/FUXA/main/screenshot/fuxa-ani.gif)
-![OVPN](https://raw.githubusercontent.com/SmartLiving-Rocks/Anleitungen/main/ovpn.gif)
+
+![OVPN via VS Code zu Home Assistant folder shares hinzufügen SmartLiving Support VPN](https://raw.githubusercontent.com/SmartLiving-Rocks/Anleitungen/main/ovpn.gif)
 
 #### Repository hinzufügen
 Kopieren Sie den folgenden Code in die Zwischenablage:
