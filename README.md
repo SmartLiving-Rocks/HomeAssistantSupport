@@ -11,8 +11,7 @@ Diese Add-On basiert auf OpenVPN und baut eine gesicherte Verbindung über ein v
 #### OpenVPN Zugangsdaten hinterlegen (*.ovpn Datei speichern)
 Die ovpn Datei die wir Ihne zugeschickt haben müssen Sie in dem Ordner `/shares` abspeichern. Benutzen Sie hierzu eine von Ihnen bevorzugte Methode wie SMB oder fügen Sie die datei manuell hinzu mit `File` oder `Coder`. Hier Zeigen wir Ihnen wie es geht:
 
-![OVPN via VS Code zu Home Assistant hinzufügen SmartLiving Support VPN](https://raw.githubusercontent.com/SmartLiving-Rocks/Anleitungen/main/OVPN%20via%20VS%20Code%20zu%20Home%20Assistant%20hinzufügen%20SmartLiving%20Support%20VPN.gif
-)
+![OVPN via VS Code zu Home Assistant hinzufügen SmartLiving Support VPN](https://raw.githubusercontent.com/SmartLiving-Rocks/Anleitungen/main/OVPN%20via%20VS%20Code%20zu%20Home%20Assistant%20hinzufügen%20SmartLiving%20Support%20VPN.gif)
 
 
 #### Repository hinzufügen
