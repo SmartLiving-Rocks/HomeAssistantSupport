@@ -13,13 +13,17 @@ Die ovpn Datei die wir Ihne zugeschickt haben müssen Sie in dem Ordner `/shares
 
 ![OVPN via VS Code zu Home Assistant folder shares hinzufügen SmartLiving Support VPN](https://raw.githubusercontent.com/SmartLiving-Rocks/Anleitungen/main/ovpn.gif)
 
-#### Repository hinzufügen
+#### SmartLiving VPN: Repository hinzufügen
 Kopieren Sie den folgenden Code in die Zwischenablage:
 `https://github.com/SmartLiving-Rocks/HomeAssistantSupport`
 Klicken Sie auf `Einstellungen` dann `Add-Ons` dannach unten rechts in der Ecke auf `Add-on Store` und abschließend auf die drei Punkte untereinander oben recht in der Ecke `Repositories`. Fügen Sie den kopierten Code ein und Klicken auf `Hinzufügen` und dann auf `Schließen`. Das Addon ist jetzt zu Home Assistant hinzugefügt und weiter unten in der Add-on Liste zu finden.
 
-#### Add-on installieren 
-Klicken Sie nun auf den Eintrag und es öffnet sich ein Fenster mit weiteren Informationen. Klicken Sie jetzt auf installieren. Nach ein paar minuten ist das Add-on installiert und Sie können es jetzt starten. Sie haben sich erfolgreich mit unserem Netzwerk verbunden. Zur überprüfung können Sie auf den Reiter `Logs` klicken und ggf. fehler erkennen. 
+#### SmartLiving VPN: Add-on installieren
+Klicken Sie nun auf den Eintrag und es öffnet sich ein Fenster mit weiteren Informationen. Klicken Sie jetzt auf installieren. Nach ein paar minuten ist das Add-on installiert und Sie können es jetzt starten. Sie haben sich erfolgreich mit unserem Netzwerk verbunden. Zur überprüfung können Sie auf den Reiter `Logs` klicken und ggf. fehler erkennen.
+
+#### SmartLiving VPN: Add-on Konfigurieren
+<img width="1149" alt="Name des OVPN Files ändern" src="https://github.com/SmartLiving-Rocks/HomeAssistantSupport/assets/76279896/46b4271a-0a51-426a-a6cd-489985994376">
+
 
 ### Support Administrator einrichten
 Damit wir uns mit Ihrere Home Assistant Instanz verbinden können müssen Sie noch einen Benutzer anlegen und diesem Adminstrationssrechte vergeben. 
