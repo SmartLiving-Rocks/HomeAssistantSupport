@@ -22,6 +22,8 @@ Klicken Sie auf `Einstellungen` dann `Add-Ons` dannach unten rechts in der Ecke 
 Klicken Sie nun auf den Eintrag und es öffnet sich ein Fenster mit weiteren Informationen. Klicken Sie jetzt auf installieren. Nach ein paar minuten ist das Add-on installiert und Sie können es jetzt starten. Sie haben sich erfolgreich mit unserem Netzwerk verbunden. Zur überprüfung können Sie auf den Reiter `Logs` klicken und ggf. fehler erkennen.
 
 #### SmartLiving VPN: Add-on Konfigurieren
+Ändern Sie unter dem Reiter `Konfiguration` den Namen des OVPN Files, falls nötig. Der Name muss der gleich sein, mit dem Namen der OPNV Datei, die unter `/shares` abgespeichert ist. 
+
 <img width="1149" alt="Name des OVPN Files ändern" src="https://github.com/SmartLiving-Rocks/HomeAssistantSupport/assets/76279896/46b4271a-0a51-426a-a6cd-489985994376">
 
 
