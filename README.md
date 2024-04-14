@@ -26,6 +26,12 @@ Klicken Sie nun auf den Eintrag und es öffnet sich ein Fenster mit weiteren Inf
 
 <img width="1149" alt="Name des OVPN Files ändern" src="https://github.com/SmartLiving-Rocks/HomeAssistantSupport/assets/76279896/46b4271a-0a51-426a-a6cd-489985994376">
 
+#### SmartLiving VPN: Add-on starten
+
+Jetzt kann das Add-on gestartet werden.
+
+<img width="798" alt="Support VPN Starten" src="https://github.com/SmartLiving-Rocks/HomeAssistantSupport/assets/76279896/7582e251-6f3d-4e06-b81a-f328558d66ad">
+
 
 ### Support Administrator einrichten
 Damit wir uns mit Ihrere Home Assistant Instanz verbinden können müssen Sie noch einen Benutzer anlegen und diesem Adminstrationssrechte vergeben. 
